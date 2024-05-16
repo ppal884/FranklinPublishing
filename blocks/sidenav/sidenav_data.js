@@ -1,1 +1,1 @@
-export default [{"displayName":"Adobe India","url":"contents/guides-regression/html5-generation/adobe-india"}]
+export default [{"displayName":"Adobe India","url":"contents/adobe-india"}]
